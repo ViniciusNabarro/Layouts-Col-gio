@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(214, 222, 231);
+}
+.caixa{
+    display: flex;
+    gap: 25px;
+    margin-top: 130px;
+    justify-content: center;
+}
+.roxocinza{
+    display: flex;
+    gap: 25px;
+
+}
+.brancopreto{
+    margin-top: 25px;
+    display: flex;
+    gap: 25px;
+}
+.roxo{
+    border-radius: 25px;
+    height: 330px;
+    width: 930px;
+    background-color: blueviolet;
+
+}
+.cinza{
+    border-radius: 25px;
+    height: 330px;
+    width: 305px;
+    background-color: gray;
+}
+.branco2{
+    border-radius: 25px;
+    height: 330px;
+    width: 305px;
+    background-color: white;
+}
+
+.branco{
+    border-radius: 25px;
+    height: 684px;
+    width: 300px;
+    background-color: white;
+}
+.preto{
+    border-radius: 25px;
+    height: 330px;
+    width: 930px;
+    background-color: black;
+
+}
