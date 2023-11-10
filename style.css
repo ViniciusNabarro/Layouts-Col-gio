@@ -19,34 +19,53 @@ body{
 }
 .roxo{
     border-radius: 25px;
-    height: 330px;
-    width: 930px;
+    height: 350px;
+    width: 830px;
     background-color: blueviolet;
 
 }
 .cinza{
     border-radius: 25px;
-    height: 330px;
+    height: 350px;
     width: 305px;
     background-color: gray;
 }
 .branco2{
     border-radius: 25px;
-    height: 330px;
+    height: 350px;
     width: 305px;
     background-color: white;
 }
 
 .branco{
     border-radius: 25px;
-    height: 684px;
+    height: 725px;
     width: 300px;
     background-color: white;
 }
 .preto{
     border-radius: 25px;
-    height: 330px;
-    width: 930px;
+    height: 350px;
+    width: 830px;
     background-color: black;
 
+}
+/*Foto perfil Roxo */
+.pairoxo{
+    height: 100px;
+    display: flex;
+}
+.fotoroxo{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.fotoroxo img{
+    width: 70px;
+    border-radius: 50%;
+}
+.nomeroxo{
+    margin-left: 35px;
+}
+.nomeroxo h1{
+    font-size: 15px;
 }
