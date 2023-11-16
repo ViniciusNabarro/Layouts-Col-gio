@@ -52,20 +52,52 @@ body{
 }
 /*Foto perfil Roxo */
 .pairoxo{
+    align-items: center;
     height: 100px;
     display: flex;
+}
+.aspas img{
+    width: 100px;
+    margin-left: 440px;
 }
 .fotoroxo{
     margin-left: 20px;
     margin-top: 20px;
 }
 .fotoroxo img{
-    width: 70px;
+    width: 50px;
     border-radius: 50%;
 }
 .nomeroxo{
+    font-family: Arial, Helvetica, sans-serif;
     margin-left: 35px;
 }
 .nomeroxo h1{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.nomeroxo h2{
+    color: #ac9b9b;
+    margin-top: 0px;
     font-size: 15px;
 }
+.flex{
+    display: flex;
+}
+.textoroxo{
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.textoroxo p{
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+#segundotexto{
+    font-size: 15px;
+    color: #ac9b9b;
+    }
